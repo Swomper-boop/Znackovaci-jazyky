@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Style.xsl"?>
+<Pujcovna_filmu
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="sp.xsd">
+
+          <seznam cislo="1" kod_filmu="f1" cesky_dabing="ano" ceske_titulky="ano" medium="DVD">
+            <nazev> Spider-Man: Bez domova </nazev>
+            <cena_kc> 350 </cena_kc>
+            <datum_premiery> 16.12.2021 </datum_premiery>
+            <zanr>sci-fi, akční, dobrodružné</zanr>
+            <hodnoceni_imdb> 8,4 </hodnoceni_imdb>
+            <hodnoceni_divaku> 8,06 </hodnoceni_divaku>
+            <zeme_vydani> USA </zeme_vydani>
+            <kamera>Mauro Fiore</kamera>
+            <rezie>Jon Watts</rezie>
+            <vekove_omezeni> 12+ </vekove_omezeni>
+            <delka_min>148</delka_min>
+            <hlavni_muzska_role>Tom Holland</hlavni_muzska_role>
+            <hlavni_zenska_role>Zendaya</hlavni_zenska_role>
+            <scenar>Steve Ditko, Stan Lee</scenar>
+            <recenze_mnozstvi>2000</recenze_mnozstvi>
+            <hudba>Michael Giacchino</hudba>
+            <slogan> ne </slogan>
+            <pujcka_dny>14</pujcka_dny>
+            <kategorie> zahranicni filmy  </kategorie>
+        </seznam>
+
+        <seznam cislo="2" kod_filmu="f2" cesky_dabing="ano" ceske_titulky="ano" medium="blu-ray">
+          <nazev> Rozhnevany muz </nazev>
+          <cena_kc> 300 </cena_kc>
+          <datum_premiery> 22.07.2021 </datum_premiery>
+          <zanr>krimi,drama,akcni </zanr>
+          <hodnoceni_imdb>7,1</hodnoceni_imdb>
+          <hodnoceni_divaku>7,56 </hodnoceni_divaku>
+          <zeme_vydani> Velka Britanie, USA </zeme_vydani>
+          <kamera>Alan Stewart</kamera>
+          <rezie>Guy Ritchie</rezie>
+          <vekove_omezeni> 15+ </vekove_omezeni>
+          <delka_min>118</delka_min>
+          <hlavni_muzska_role> Jason Statham</hlavni_muzska_role>
+          <hlavni_zenska_role> Niamh Algar</hlavni_zenska_role>
+          <scenar> Guy Ritchie, Ivan Atkinson, Marn Davies	</scenar>
+          <recenze_mnozstvi>646</recenze_mnozstvi>
+          <hudba>Christopher Benstead</hudba>
+          <slogan> ne </slogan>
+          <pujcka_dny>14</pujcka_dny>
+          <kategorie> zahranicni filmy  </kategorie>
+      </seznam>
+
+      <seznam cislo="3" kod_filmu="f3" cesky_dabing="ano" ceske_titulky="ano" medium="Blu-ray/DVD">
+          <nazev>The Batman</nazev>
+          <cena_kc>350</cena_kc>
+          <datum_premiery>03.03.2022 </datum_premiery>
+          <zanr>akcni,drama</zanr>
+          <hodnoceni_imdb>8,2 </hodnoceni_imdb>
+          <hodnoceni_divaku> 7,8 </hodnoceni_divaku>
+          <zeme_vydani> USA </zeme_vydani>
+          <kamera>Greig Fraser</kamera>
+          <rezie>Matt Reeves</rezie>
+          <vekove_omezeni> 12+ </vekove_omezeni>
+          <delka_min>176</delka_min>
+          <hlavni_muzska_role>Robert Pattinson</hlavni_muzska_role>
+          <hlavni_zenska_role>Zoe Kravitz</hlavni_zenska_role>
+          <scenar>Matt Reeves, Peter Craig</scenar>
+          <recenze_mnozstvi>1000</recenze_mnozstvi>
+          <hudba>Michael Giacchino</hudba>
+          <slogan>“Fear Is a Tool”</slogan>
+          <pujcka_dny>14</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="3" kod_filmu="f3" cesky_dabing="ano" ceske_titulky="ano" medium="DVD">
+          <nazev> Neni cas zemrit </nazev>
+          <cena_kc> 250 </cena_kc>
+          <datum_premiery> 30.09.2021 </datum_premiery>
+          <zanr>akcni,dobrodruzny,krimi</zanr>
+          <hodnoceni_imdb>7,3</hodnoceni_imdb>
+          <hodnoceni_divaku>7</hodnoceni_divaku>
+          <zeme_vydani> Velka Britanie,USA </zeme_vydani>
+          <kamera>Linus Sandgren</kamera>
+          <rezie>Cary Joji Fukunaga</rezie>
+          <vekove_omezeni> 15+ </vekove_omezeni>
+          <delka_min>163</delka_min>
+          <hlavni_muzska_role> Daniel Craig</hlavni_muzska_role>
+          <hlavni_zenska_role> Lea Seydoux</hlavni_zenska_role>
+          <scenar> Neal Purvis, Robert Wade, Cary Joji Fukunaga</scenar>
+          <recenze_mnozstvi>500</recenze_mnozstvi>
+          <hudba>Hans Zimmer</hudba>
+          <slogan>bond je zpet</slogan>
+          <pujcka_dny>14</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="4" kod_filmu="f4" cesky_dabing="ne" ceske_titulky="ano" medium="DVD">
+          <nazev> Vsemocny </nazev>
+          <cena_kc> 100 </cena_kc>
+          <datum_premiery>24.03.2011</datum_premiery>
+          <zanr>mysteriozni,sci-fi</zanr>
+          <hodnoceni_imdb>7,4</hodnoceni_imdb>
+          <hodnoceni_divaku>7,9</hodnoceni_divaku>
+          <zeme_vydani> USA </zeme_vydani>
+          <kamera>Jo Willems</kamera>
+          <rezie>Neil Burger</rezie>
+          <vekove_omezeni>12+</vekove_omezeni>
+          <delka_min>105</delka_min>
+          <hlavni_muzska_role>Bradley Cooper</hlavni_muzska_role>
+          <hlavni_zenska_role> Anna Friel</hlavni_zenska_role>
+          <scenar>Alan Glynn</scenar>
+          <recenze_mnozstvi>1000</recenze_mnozstvi>
+          <hudba>Paul Leonard-Morgan</hudba>
+          <slogan>ne</slogan>
+          <pujcka_dny>21</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="5" kod_filmu="f5" cesky_dabing="ano" ceske_titulky="ano" medium="Blu-ray">
+          <nazev>Gentlemani</nazev>
+          <cena_kc> 300 </cena_kc>
+          <datum_premiery>30.01.2020</datum_premiery>
+          <zanr>krimi,komedie,akcni</zanr>
+          <hodnoceni_imdb>7,8</hodnoceni_imdb>
+          <hodnoceni_divaku>8</hodnoceni_divaku>
+          <zeme_vydani>USA</zeme_vydani>
+          <kamera>Alan Stewart</kamera>
+          <rezie>Guy Ritchie</rezie>
+          <vekove_omezeni>16+</vekove_omezeni>
+          <delka_min>113</delka_min>
+          <hlavni_muzska_role>Matthew McConaughey</hlavni_muzska_role>
+          <hlavni_zenska_role> Lyne Renee</hlavni_zenska_role>
+          <scenar>Guy Ritchie</scenar>
+          <recenze_mnozstvi>884</recenze_mnozstvi>
+          <hudba>Christopher Benstead</hudba>
+          <slogan>ne</slogan>
+          <pujcka_dny>10</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="6" kod_filmu="f6" cesky_dabing="ano" ceske_titulky="ano" medium="DVD/Blu-ray">
+          <nazev>Avengers: Infinity War</nazev>
+          <cena_kc>200</cena_kc>
+          <datum_premiery>26.04.2018</datum_premiery>
+          <zanr>akcni,dobrodruzny,sci-fi</zanr>
+          <hodnoceni_imdb>8</hodnoceni_imdb>
+          <hodnoceni_divaku>7,9</hodnoceni_divaku>
+          <zeme_vydani>USA</zeme_vydani>
+          <kamera>Trent Opaloch</kamera>
+          <rezie>Anthony Russo, Joe Russo</rezie>
+          <vekove_omezeni>12+</vekove_omezeni>
+          <delka_min>149</delka_min>
+          <hlavni_muzska_role>Robert Downey Jr</hlavni_muzska_role>
+          <hlavni_zenska_role>Scarlett Johansson</hlavni_zenska_role>
+          <scenar>Christopher Markus, Stephen McFeely</scenar>
+          <recenze_mnozstvi>1800</recenze_mnozstvi>
+          <hudba>Alan Silvestri</hudba>
+          <slogan>ne</slogan>
+          <pujcka_dny>20</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="7" kod_filmu="f7" cesky_dabing="ano" ceske_titulky="ano" medium="DVD">
+          <nazev>Joker</nazev>
+          <cena_kc>250</cena_kc>
+          <datum_premiery>03.10.2019</datum_premiery>
+          <zanr>krimi,drama</zanr>
+          <hodnoceni_imdb>8,5</hodnoceni_imdb>
+          <hodnoceni_divaku>8,4</hodnoceni_divaku>
+          <zeme_vydani>USA</zeme_vydani>
+          <kamera>Lawrence Sher</kamera>
+          <rezie>Todd Phillips</rezie>
+          <vekove_omezeni>15+</vekove_omezeni>
+          <delka_min>122</delka_min>
+          <hlavni_muzska_role>Joaquin Phoenix</hlavni_muzska_role>
+          <hlavni_zenska_role>Zazie Beetz</hlavni_zenska_role>
+          <scenar>Todd Phillips, Scott Silver</scenar>
+          <recenze_mnozstvi>1000</recenze_mnozstvi>
+          <hudba>Hildur Guðnadóttir</hudba>
+          <slogan>ne</slogan>
+          <pujcka_dny>14</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="8" kod_filmu="f8" cesky_dabing="ano" ceske_titulky="ano" medium="Blu-ray">
+          <nazev>Nespoutany Django</nazev>
+          <cena_kc>300</cena_kc>
+          <datum_premiery>17.01.2013</datum_premiery>
+          <zanr>western,drama,dobrodruzny</zanr>
+          <hodnoceni_imdb>8,4</hodnoceni_imdb>
+          <hodnoceni_divaku>8,2</hodnoceni_divaku>
+          <zeme_vydani>USA</zeme_vydani>
+          <kamera>Robert Richardson</kamera>
+          <rezie>Quentin Tarantino</rezie>
+          <vekove_omezeni>15+</vekove_omezeni>
+          <delka_min>165</delka_min>
+          <hlavni_muzska_role>Jamie Foxx</hlavni_muzska_role>
+          <hlavni_zenska_role>ne</hlavni_zenska_role>
+          <scenar>Quentin Tarantino</scenar>
+          <recenze_mnozstvi>2000</recenze_mnozstvi>
+          <hudba>Michael Minkler</hudba>
+          <slogan>"Vzali mu svobodu. Vsechno jim vezme."</slogan>
+          <pujcka_dny>20</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+
+      <seznam cislo="9" kod_filmu="f9" cesky_dabing="ano" ceske_titulky="ano" medium="DVD">
+            <nazev>Osm hroznych</nazev>
+            <cena_kc>250</cena_kc>
+            <datum_premiery>07.01.2016</datum_premiery>
+            <zanr>western,drama,thriller</zanr>
+            <hodnoceni_imdb>7,8</hodnoceni_imdb>
+            <hodnoceni_divaku>7,7</hodnoceni_divaku>
+            <zeme_vydani>USA</zeme_vydani>
+            <kamera>Robert Richardson</kamera>
+            <rezie>Quentin Tarantino</rezie>
+            <vekove_omezeni>16+</vekove_omezeni>
+            <delka_min>168</delka_min>
+            <hlavni_muzska_role> Samuel L. Jackson</hlavni_muzska_role>
+            <hlavni_zenska_role>Jennifer Jason Leigh</hlavni_zenska_role>
+            <scenar>Quentin Tarantino</scenar>
+            <recenze_mnozstvi>978</recenze_mnozstvi>
+            <hudba>Ennio Morricone</hudba>
+            <slogan>"Neprichazis sem bez dobreho duvodu."</slogan>
+            <pujcka_dny>17</pujcka_dny>
+            <kategorie>zahranicni filmy</kategorie>
+            </seznam>
+
+            <seznam cislo="10" kod_filmu="f10" cesky_dabing="ano" ceske_titulky="ano" medium="Blu-ray">
+          <nazev>RocknRolla </nazev>
+          <cena_kc>200</cena_kc>
+          <datum_premiery>11.05.2009</datum_premiery>
+          <zanr>krimi,komedie,akcni</zanr>
+          <hodnoceni_imdb>7,3</hodnoceni_imdb>
+          <hodnoceni_divaku>7</hodnoceni_divaku>
+          <zeme_vydani>Velka Britanie,USA,Francie</zeme_vydani>
+          <kamera>David Higgs</kamera>
+          <rezie>Guy Ritchie</rezie>
+          <vekove_omezeni>18+</vekove_omezeni>
+          <delka_min>110</delka_min>
+          <hlavni_muzska_role>Gerard Butler</hlavni_muzska_role>
+          <hlavni_zenska_role>Thandiwe Newton</hlavni_zenska_role>
+          <scenar>Guy Ritchie</scenar>
+          <recenze_mnozstvi>520</recenze_mnozstvi>
+          <hudba>Steve Isles</hudba>
+          <slogan>ne</slogan>
+          <pujcka_dny>24</pujcka_dny>
+          <kategorie>zahranicni filmy</kategorie>
+      </seznam>
+</Pujcovna_filmu>

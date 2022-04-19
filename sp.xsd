@@ -1,0 +1,38 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Pujcovna_filmu">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="seznam" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="nazev"/>
+              <xs:element type="xs:float" name="cena_kc"/>
+              <xs:element type="xs:string" name="datum_premiery"/>
+              <xs:element type="xs:string" name="zanr"/>
+              <xs:element type="xs:string" name="hodnoceni_imdb"/>
+              <xs:element type="xs:string" name="hodnoceni_divaku"/>
+              <xs:element type="xs:string" name="zeme_vydani"/>
+              <xs:element type="xs:string" name="kamera"/>
+              <xs:element type="xs:string" name="rezie"/>
+              <xs:element type="xs:string" name="vekove_omezeni"/>
+              <xs:element type="xs:short" name="delka_min"/>
+              <xs:element type="xs:string" name="hlavni_muzska_role"/>
+              <xs:element type="xs:string" name="hlavni_zenska_role"/>
+              <xs:element type="xs:string" name="scenar"/>
+              <xs:element type="xs:short" name="recenze_mnozstvi"/>
+              <xs:element type="xs:string" name="hudba"/>
+              <xs:element type="xs:string" name="slogan"/>
+              <xs:element type="xs:byte" name="pujcka_dny"/>
+              <xs:element type="xs:string" name="kategorie"/>
+            </xs:sequence>
+            <xs:attribute type="xs:byte" name="cislo" use="optional"/>
+            <xs:attribute type="xs:string" name="kod_filmu" use="optional"/>
+            <xs:attribute type="xs:string" name="cesky_dabing" use="optional"/>
+            <xs:attribute type="xs:string" name="ceske_titulky" use="optional"/>
+            <xs:attribute type="xs:string" name="medium" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
